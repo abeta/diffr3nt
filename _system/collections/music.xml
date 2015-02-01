@@ -2,7 +2,6 @@
 <form>
     <fields>
         <fieldset name="options">
-            <field name="date" date-format="YYYY-MM-DD" type="datetime" label="Date" filter="string" class="form-control" admintable="true"/>
             <field name="image" type="media" label="Image" filter="string" class="form-control" />
             <field name="link" type="url" label="Link" filter="string" class="form-control" />
         </fieldset>

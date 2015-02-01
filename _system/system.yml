@@ -1,12 +1,12 @@
 content:
     title: Pages
     icon: sitemap
-events:
-    title: Events
-    icon: calendar
 music:
     title: Music
     icon: music
 videos:
     title: Videos
     icon: video-camera
+events:
+    title: Events
+    icon: calendar
